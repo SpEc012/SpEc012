@@ -16,4 +16,4 @@
 ![](https://komarev.com/ghpvc/?username=spec012&label=Profile+Visits&style=for-the-badge&color=blue)
 
 ##Links
-- [![](https://img.shields.io/badge/Cashapp-blue?style=plastic&logo=Cashapp&color=grey&link=https%3A%2F%2Fcash.app%2F%24SpEc09)]
+- [![](https://img.shields.io/badge/Cashapp-blue?style=plastic&logo=cashapp&color=grey&link=https%3A%2F%2Fcash.app%2F%24SpEc09)](https://cash.app/$SpEc09)
