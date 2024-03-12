@@ -14,3 +14,6 @@
 [![](https://img.shields.io/badge/Website-572cfe?style=for-the-badge)](https://spec.doxxed-you.lol)
 
 ![](https://komarev.com/ghpvc/?username=spec012&label=Profile+Visits&style=for-the-badge&color=blue)
+
+##Links
+- [![](https://img.shields.io/badge/Cashapp-blue?style=plastic&logo=Cashapp&color=grey&link=https%3A%2F%2Fcash.app%2F%24SpEc09)]
