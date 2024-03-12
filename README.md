@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm SpEc👋 
 
-<!--
-**SpEc012/SpEc012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![SpEc's GitHub stats](https://github-readme-stats.vercel.app/api?username=spec012&theme=radical)](https://github.com/SpEc012)
 
-Here are some ideas to get you started:
+## Im a Developer
+- 🔥 I’m currently coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I Know:
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spec012&layout=compact)](https://github.com/SpEc012)
+
+[![](https://img.shields.io/badge/Website-572cfe?style=for-the-badge)](https://spec.doxxed-you.lol)
+
+![](https://komarev.com/ghpvc/?username=spec012&label=Profile+Visits&style=for-the-badge&color=blue)
