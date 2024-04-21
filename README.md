@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spec012&layout=compact)](https://github.com/SpEc012)
 
-[![](https://img.shields.io/badge/Website-572cfe?style=for-the-badge)](https://spec.doxxed-you.lol)
+[![](https://img.shields.io/badge/Website-572cfe?style=for-the-badge)](https://spec012.github.io/bio-site/)
 
 ![](https://komarev.com/ghpvc/?username=spec012&label=Profile+Visits&style=for-the-badge&color=blue)
 
